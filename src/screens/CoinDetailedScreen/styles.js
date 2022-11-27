@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
   filtersContainer: {
     flexDirection: "row",
     justifyContent: "space-around",
-    backgroundColor: "#2B2B2B",
+    backgroundColor: "#9896f1",
     paddingVertical: 5,
     borderRadius: 5,
     marginVertical: 10,

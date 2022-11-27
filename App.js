@@ -20,14 +20,14 @@ export default function App() {
     <NavigationContainer
       theme={{
         colors: {
-          background: "#121212",
+          background: "#27296d",
         },
       }}
     >
       <RecoilRoot>
         <View style={styles.container}>
           <Navigation />
-          <StatusBar style="light" />
+          <StatusBar style="black" />
         </View>
       </RecoilRoot>
     </NavigationContainer>
@@ -37,7 +37,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#121212",
+    backgroundColor: "#9896f1",
     paddingTop: 50,
   },
 });

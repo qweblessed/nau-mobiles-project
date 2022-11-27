@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
     color: 'white',
   },
   rankContainer: {
-    backgroundColor: '#585858',
+    backgroundColor: '#9896f1',
     paddingHorizontal: 5,
     borderRadius: 5,
     marginRight: 5,
