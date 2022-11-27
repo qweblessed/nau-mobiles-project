@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "nau-project coins price trackes",
+    "slug": "(o_0)",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/cz_earning.png",
+    "splash": {
+      "image": "./assets/cz_earning.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#29303A"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "nau-project",
+      "buildNumber": "7"
+    },
+    "android": {
+      "package": "nau-project",
+      "versionCode": 5,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/cz_earning.png",
+        "backgroundColor": "#29303A"
+      }
+    },
+    "web": {
+      "favicon": "./assets/cz_earning.png"
+    }
+  }
+}
